@@ -1,5 +1,4 @@
 
-// select all the spans with class name of number
 const items = [...document.querySelectorAll('.number')];
 
 const updateCount = (el) => {

@@ -1,2 +1,3 @@
 # js-snippets
-Javascipt Snippets
+
+JavaScript Snippets & Simple Projects
